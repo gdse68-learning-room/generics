@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generics.iml" filepath="$PROJECT_DIR$/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/non-generics/non-generics.iml" filepath="$PROJECT_DIR$/non-generics/non-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/with-generics/with-generics.iml" filepath="$PROJECT_DIR$/with-generics/with-generics.iml" />
+    </modules>
+  </component>
+</project>
