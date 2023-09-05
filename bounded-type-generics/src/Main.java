@@ -11,6 +11,6 @@ public class Main {
         numerical1.print();
 
 
-        Numerical<Boy, Student, Integer> numerical2 = new Numerical<>("Kamal", student, 15);    //Illegal
+//        Numerical<Boy, Student, Integer> numerical2 = new Numerical<>("Kamal", student, 15);    //Illegal
     }
 }
