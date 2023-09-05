@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bounded-type-generics/bounded-type-generics.iml" filepath="$PROJECT_DIR$/bounded-type-generics/bounded-type-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics.iml" filepath="$PROJECT_DIR$/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/non-generics/non-generics.iml" filepath="$PROJECT_DIR$/non-generics/non-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/with-generics/with-generics.iml" filepath="$PROJECT_DIR$/with-generics/with-generics.iml" />
